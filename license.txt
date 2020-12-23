@@ -1,0 +1,11 @@
+Model Information:
+* title:	Board Game
+* source:	https://sketchfab.com/3d-models/board-game-30487c1bdc4f43fb97126d546591d0aa
+* author:	tasha.kosaykina (https://sketchfab.com/tasha.kosaykina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Board Game" (https://sketchfab.com/3d-models/board-game-30487c1bdc4f43fb97126d546591d0aa) by tasha.kosaykina (https://sketchfab.com/tasha.kosaykina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
